@@ -1,0 +1,15 @@
+{
+  "name": "smartthings-lifx-demo",
+  "version": "1.0.0",
+  "description": "SmartThings/LIFX device integration",
+  "main": "index.js",
+  "author": "SmartThings",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "config": "^1.26.2",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "aws-sdk": "^2.211.0"
+  }
+}
